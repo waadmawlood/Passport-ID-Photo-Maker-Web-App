@@ -1,0 +1,170 @@
+{
+  "iraq_passport": {
+    "id": "iraq_passport",
+    "width_mm": 35,
+    "height_mm": 45,
+    "dpi": 300,
+    "head_min_pct": 50,
+    "head_max_pct": 70,
+    "names": {
+      "en": "Iraq Passport",
+      "ar": "جواز سفر عراقي"
+    }
+  },
+  "iraq_normal": {
+    "id": "iraq_normal",
+    "width_mm": 30,
+    "height_mm": 40,
+    "dpi": 300,
+    "head_min_pct": 50,
+    "head_max_pct": 70,
+    "names": {
+      "en": "Iraq Normal Photo",
+      "ar": "صورة عراقية عادية"
+    }
+  },
+  "us_passport": {
+    "id": "us_passport",
+    "width_mm": 51,
+    "height_mm": 51,
+    "dpi": 300,
+    "head_min_pct": 50,
+    "head_max_pct": 69,
+    "names": {
+      "en": "US Passport/Visa",
+      "ar": "جواز سفر/تأشيرة أمريكي"
+    }
+  },
+  "us_visa": {
+    "id": "us_visa",
+    "width_mm": 51,
+    "height_mm": 51,
+    "dpi": 300,
+    "head_min_pct": 50,
+    "head_max_pct": 69,
+    "names": {
+      "en": "US Visa",
+      "ar": "تأشيرة أمريكية"
+    }
+  },
+  "schengen": {
+    "id": "schengen",
+    "width_mm": 35,
+    "height_mm": 45,
+    "dpi": 300,
+    "head_min_pct": 50,
+    "head_max_pct": 70,
+    "names": {
+      "en": "Schengen/EU",
+      "ar": "شنغن/أوروبا"
+    }
+  },
+  "uk_passport": {
+    "id": "uk_passport",
+    "width_mm": 35,
+    "height_mm": 45,
+    "dpi": 300,
+    "head_min_pct": 50,
+    "head_max_pct": 70,
+    "names": {
+      "en": "UK Passport",
+      "ar": "جواز سفر بريطاني"
+    }
+  },
+  "india_passport": {
+    "id": "india_passport",
+    "width_mm": 51,
+    "height_mm": 51,
+    "dpi": 300,
+    "head_min_pct": 50,
+    "head_max_pct": 69,
+    "names": {
+      "en": "India Passport",
+      "ar": "جواز سفر هندي"
+    }
+  },
+  "china_visa": {
+    "id": "china_visa",
+    "width_mm": 33,
+    "height_mm": 48,
+    "dpi": 300,
+    "head_min_pct": 50,
+    "head_max_pct": 70,
+    "names": {
+      "en": "China Visa",
+      "ar": "تأشيرة صينية"
+    }
+  },
+  "canada_passport": {
+    "id": "canada_passport",
+    "width_mm": 50,
+    "height_mm": 70,
+    "dpi": 300,
+    "head_min_pct": 50,
+    "head_max_pct": 69,
+    "names": {
+      "en": "Canada Passport",
+      "ar": "جواز سفر كندي"
+    }
+  },
+  "australia_passport": {
+    "id": "australia_passport",
+    "width_mm": 35,
+    "height_mm": 45,
+    "dpi": 300,
+    "head_min_pct": 50,
+    "head_max_pct": 70,
+    "names": {
+      "en": "Australia Passport",
+      "ar": "جواز سفر أسترالي"
+    }
+  },
+  "japan_visa": {
+    "id": "japan_visa",
+    "width_mm": 45,
+    "height_mm": 45,
+    "dpi": 300,
+    "head_min_pct": 50,
+    "head_max_pct": 70,
+    "names": {
+      "en": "Japan Visa",
+      "ar": "تأشيرة يابانية"
+    }
+  },
+  "germany_passport": {
+    "id": "germany_passport",
+    "width_mm": 35,
+    "height_mm": 45,
+    "dpi": 300,
+    "head_min_pct": 50,
+    "head_max_pct": 70,
+    "names": {
+      "en": "Germany Passport",
+      "ar": "جواز سفر ألماني"
+    }
+  },
+  "france_passport": {
+    "id": "france_passport",
+    "width_mm": 35,
+    "height_mm": 45,
+    "dpi": 300,
+    "head_min_pct": 50,
+    "head_max_pct": 70,
+    "names": {
+      "en": "France Passport",
+      "ar": "جواز سفر فرنسي"
+    }
+  },
+  "custom": {
+    "id": "custom",
+    "width_mm": 50,
+    "height_mm": 50,
+    "dpi": 300,
+    "head_min_pct": 50,
+    "head_max_pct": 70,
+    "names": {
+      "en": "Custom Size",
+      "ar": "مقاس مخصص"
+    }
+  }
+}
